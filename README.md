@@ -32,8 +32,6 @@ SmartFAQ-AI/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-└── images/
-    └── chatbot-home.png
 ```
 
 ## How to Run
